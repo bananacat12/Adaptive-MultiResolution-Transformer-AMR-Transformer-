@@ -457,7 +457,7 @@ A Query-Based Attention module where a learnable `Q_router` vector attends to th
 
 <div align="center">
 
-![Adaptive Resolution Module](assets/Adaptive_Resolution_Module.png)
+![Adaptive Resolution Module](assets/Adaptive%20Resolution%20Module.png)
 *ARM core: Learnable Query → Cross-Attention → Router MLP → Softmax → α weights*
 
 </div>
@@ -471,7 +471,7 @@ PE(pos, 2i+1) = cos(pos·σ / 10000^(2i/d_model))
 
 <div align="center">
 
-![Continuous Scale-Aware Positional Encoding](assets/Continuous_Scale-Aware_Positional_Encoding.png)
+![Continuous Scale-Aware Positional Encoding](assets/Continuous%20Scale-Aware%20Positional%20Encoding.png)
 *Scale-aware PE: positions are scaled by σ to preserve absolute time across resolutions*
 
 </div>
