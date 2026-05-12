@@ -3,26 +3,27 @@
 # 🔭 AMR-Transformer
 ### Adaptive Multi-Resolution Transformer for Time Series Forecasting
 
+</div>
 
 ---
 
 ## 📖 Table of Contents
 
-- [Overview](#-overview)
-- [Key Contributions](#-key-contributions)
-- [Architecture](#-architecture)
-  - [Core Components](#core-components)
-  - [Data Flow](#data-flow)
-- [Datasets](#-datasets)
-- [Baselines](#-baselines)
-- [Results](#-results)
-  - [Overall Performance](#overall-performance)
-  - [Multi-Horizon Evaluation](#multi-horizon-evaluation)
-  - [Computational Efficiency](#computational-efficiency)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Citation](#-citation)
+* [Overview](#-overview)
+* [Key Contributions](#-key-contributions)
+* [Architecture](#-architecture)
+  * [Core Components](#core-components)
+  * [Data Flow](#data-flow)
+* [Datasets](#-datasets)
+* [Baselines](#-baselines)
+* [Results](#-results)
+  * [Overall Performance](#overall-performance)
+  * [Multi-Horizon Evaluation](#multi-horizon-evaluation)
+  * [Computational Efficiency](#computational-efficiency)
+* [Installation](#-installation)
+* [Usage](#-usage)
+* [Project Structure](#-project-structure)
+* [Citation](#-citation)
 
 ---
 
@@ -94,7 +95,7 @@ The AMR-Transformer is built upon **4 main components**:
 
 <div align="center">
 
-![AMR Block](assets/AMR_Block.png)
+![AMR Block](assets/AMR_Block.jpg)
 *Internal data flow of one AMR Transformer Block*
 
 </div>
